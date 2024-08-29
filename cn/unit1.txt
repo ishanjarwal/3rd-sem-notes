@@ -1,0 +1,18 @@
+question : what is the difference between 4g and 5g devices.
+question: what is the difference between LAN, MAN, PAN and WAN.
+question : what is the meaning of latecy
+
+
+A computer network is a system that connects numerous independant computers in order to share information or data.
+This is a collection of two or more computer systems that are linked to one another.
+What is the Criteria of good network : 
+1. Network Speed
+
+Types of Networks 
+1. Wired : 
+2. Wireless : 
+
+Components of Hardware : input, output, storage devices.
+Components of Software : system software, utility software and application software
+Data communication : refers to the transmission of digital data between two or more computers and a computer network/data network , allows the computers to exchange the information
+

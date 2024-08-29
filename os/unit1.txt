@@ -1,0 +1,65 @@
+Block Diagram of OS
+
+  Computer
+     ⇅
+Operating System
+     ⇅
+  End User
+
+
+Architecture of OS
+ User 1          User 2          User 3             User 4
+-----------------------------------------------------------------
+    ⇅               ⇅               ⇅               ⇅
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+_________________________________________________________________
+|Compiler    |   Assembler   |   Text Editor |   Database System |
+|_____________________| Operating System |_______________________|
+|                     | Computer Hardware|                       | 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Function of OS
+1. Memory Management : 
+2. Process Management : 
+3. Device Management : devices/programs needs drivers to perform their tasks.
+4. File Management : creation, deletion and modification.
+5. Security : access control
+6. Control Over Systems : 
+7. Coordination between other softwares and users
+
+
+# Types of OS
+
+1. Batch OS :
+  * In this OS, takes similar tasks and groups them into batches
+  * The Batch OS is designed to manage and execute a large number of jobs efficiently by processing them into groups 
+  Advantages 
+    * multiple users can use at same time
+  Disadvantage
+    * it is costly 
+    * it is hard to debug
+
+2. Interactive OS :
+3. Time Sharing OS : 
+  * Each task is given some time to execute so that all the tasks work smoothly
+  Advantages
+    * improved productivity
+    * resource sharing and equal opportunity
+4. Real Time OS
+5. Multi Processor OS
+  * It has more than one cpu 
+  * It provides redundancy (if one cpu fails, task is forwarded to another)
+  Advantages : 
+    * 
+  Disadvantage
+    * 
+6. Multi User OS
+7. Multi Process OS  / Multi Programming OS:
+  * It can have more than one program present in the main memory and one of them can be executed in timely manner
+  Advantages : 
+    * Better utilization of resources
+    * It increases throughput of the system 
+  Disadvantage
+    * 
+
+8. Multi Threaded OS

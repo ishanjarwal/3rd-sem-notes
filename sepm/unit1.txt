@@ -1,0 +1,16 @@
+System : It is defined as set of detailed methods procedure and routine established to carry out a specific function to solve any problem.
+
+System Characterstics : 
+1. Synergism : (working all together) There is an enhancement to function and performance capability of a system that transcends contribution of a individual sub-system that makes up a system.
+
+2. Compromise : A system design is a compromise among many frequently conflicting requirements and the desired ones. A system is not an optimal solution for the satisfaction of all the requirements.
+
+3. Adaptibility : (adjust according to the changes) systems are adjustable i.e they grow and change. It is the ability to adopt these changes according to the time and changing technology.
+
+Software Characterstics :
+1. A software is developed or engineered, it is not manufactured in classical sense.
+2. Software doesn't bear out but it does detoriate.
+(Bathtub curve)
+
+3. Software has a spike curve : software is not succeptable to environmental maladies that causes hardware to detoriate
+
